@@ -52,9 +52,7 @@ SciPy.stats is a module that contains a large number of probability distribution
 - This Readme file
 - tasks.ipynb -a notebook containing the 5 assessments and their corresponding analysis.
 - project.ipynb notebook which contains all of the research, analysis and plots formed. 
-- Premier_league_stats folder containing datasets for each year of the premier league and an overall dataset called final_dataset.csv which was used for this project.
-- Images folder, where all graphs are saved to.
-
+- a .gitignore fileto ignore any temporary files and folders that should not normally be committed to a repository
 
 # References
 
