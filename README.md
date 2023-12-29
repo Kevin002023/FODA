@@ -1,4 +1,4 @@
-# FODA
+# Fundamentals of Data Analytics Repository
 
 By Kevin O'Leary
 
@@ -8,7 +8,7 @@ This repository is my submission for the module Fundamentals of Data Analysis as
 - This Readme file
 - tasks.ipynb -a notebook containing the 5 assessments and their corresponding analysis.
 - project.ipynb notebook which contains all of the research, analysis and plots formed. 
-- a .gitignore fileto ignore any temporary files and folders that should not normally be committed to a repository
+- a .gitignore file to ignore any temporary files and folders that should not normally be committed to a repository
 
 **Tasks**
 
@@ -20,7 +20,7 @@ We were given 5 different tasks corresponding to a topic presented for every two
 - Create a notebook investigating the variables and data points within the well-known iris flower data set associated with Ronald A Fisher.
 - Discuss the classification of each variable within the data set according to common variable types and scales of measurement in  mathematics, statistics, and Python.
 - Select, demonstrate, and explain the most appropriate summary.
--  Select, demonstrate, and explain the most appropriate plot(s) for
+- Select, demonstrate, and explain the most appropriate plot(s) for
 each variable.
 
 # How to download this repository
@@ -42,10 +42,8 @@ matplotlib.pyplot as plt
 numpy as np
 seaborn as sns
 shapiro from scipy.stats
-````
 
 
-
-# References
+# **References**
 
 References are noted in the section in which they are used and are listed at the end of the notebook. There are some references listed which are not used directly in the notebook but which were used to gain an understanding of the topics involved.
