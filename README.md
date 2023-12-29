@@ -1,4 +1,4 @@
-# Fundamentals of Data Analytics Repository
+# Fundamentals of Data Analysis Repository
 
 By Kevin O'Leary
 
