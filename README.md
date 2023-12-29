@@ -2,8 +2,13 @@
 
 By Kevin O'Leary
 
-This repository is my submission for the module Fundamentals of Data Analysis as part of the Higher Diploma in Computing and Data Analytics at Atlantic Technological University. The repository contains the Jupyter Notebooks tasks.ipynb and project.ipynb
+This repository is my submission for the module Fundamentals of Data Analysis as part of the Higher Diploma in Computing and Data Analytics at Atlantic Technological University. 
 
+# Contents of Repository
+- This Readme file
+- tasks.ipynb -a notebook containing the 5 assessments and their corresponding analysis.
+- project.ipynb notebook which contains all of the research, analysis and plots formed. 
+- a .gitignore fileto ignore any temporary files and folders that should not normally be committed to a repository
 
 **Tasks**
 
@@ -38,21 +43,7 @@ import seaborn as sns
 import shapiro from scipy.stats
 ````
 
-Pandas allows you to manipulate the dataset as a dataframe. It was used to import the dataset, set up a dataframe, validate the values and then for aggregation and grouping of specific variables. I made extensive use of the Pandas documentation which can be found [here](https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html)
 
-NumPy was used for mathematical operations and when working with arrays/matrices. Its documentation can be found [here](https://numpy.org/doc/stable/)
-
-Matplotlib is an extension of NumPy and was used to present the data in plots. Its documentation is [here](https://matplotlib.org/stable/index.html)
-
-Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics. Its documentation can be found [here](https://seaborn.pydata.org/tutorial.html)
-
-SciPy.stats is a module that contains a large number of probability distributions, summary and frequency statistics, correlation functions and statistical tests, masked statistics, kernel density estimation. Its documentation can be found [here](https://docs.scipy.org/doc/scipy/reference/stats.html)
-
-# Contents of Repository
-- This Readme file
-- tasks.ipynb -a notebook containing the 5 assessments and their corresponding analysis.
-- project.ipynb notebook which contains all of the research, analysis and plots formed. 
-- a .gitignore fileto ignore any temporary files and folders that should not normally be committed to a repository
 
 # References
 
