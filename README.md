@@ -25,8 +25,10 @@ each variable.
 
 # How to download this repository
 
-Go to the URL for the repository on GitHub at https://github.com/Kevin002023/FODA. Click the green code or download button
-
+1. Download Anaconda.
+2. Download VsCode or use JupyterNotebook via browser (https://jupyter.org/try).
+3. Clone the repository from  https://github.com/Kevin002023/FODA. 
+4. Open via VsCode or JupyterNotebooks.
 
 # **Software Used**
 This project was done on Jupyter Notebooks using Python 3.11.15. on the editor Visual Studio Code V 1.75.1. It was used to produce both the code and this README.md file.
@@ -35,12 +37,11 @@ The original dataset used is available from the [UCI Machine Learning Repository
 
 The packages I used are;
 
-````
-import pandas as pd
-import matplotlib.pyplot as plt
-import numpy as np
-import seaborn as sns
-import shapiro from scipy.stats
+pandas as pd
+matplotlib.pyplot as plt
+numpy as np
+seaborn as sns
+shapiro from scipy.stats
 ````
 
 
